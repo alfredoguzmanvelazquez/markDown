@@ -48,8 +48,10 @@ input.int("Hello");
 ![imaghed de lolo]( https://i.blogs.es/e1feab/google-fotos/1366_2000.jpg)
 
 
-* [X]tarea 1
+   * [x] tarea 1
 
-* []tarea 2
+* [ ] tarea 2
 
-* [X]tarea 3
+* [x] tarea 3
+
+@aguzmanv :blush: :laughing:
